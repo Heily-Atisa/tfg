@@ -1,0 +1,1 @@
+# El archivo __init__.py en el directorio endpoints esté configurado correctamente para importar y exportar todos los routers
