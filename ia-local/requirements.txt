@@ -1,0 +1,3 @@
+# Dependencias esenciales para el RAG conceptual
+pymupdf==1.23.7      # Para procesamiento de PDFs
+openai==1.3.0        # Para integración con OpenAI API

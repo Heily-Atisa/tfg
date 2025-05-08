@@ -1,0 +1,74 @@
+# Archivos y directorios específicos del proyecto
+data/
+documents/*
+!documents/README.md
+venv/
+templates/
+static/
+
+# Archivos de configuración local
+.env
+
+# Archivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Archivos de entorno virtual
+env/
+ENV/
+env.bak/
+ENV.bak/
+
+# Logs
+*.log
+logs/
+
+# Archivos de base de datos
+*.db
+*.sqlite3
+
+# Archivos de caché
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs y editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# Archivos temporales
+tmp/
+temp/
+*.tmp
